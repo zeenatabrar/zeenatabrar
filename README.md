@@ -21,14 +21,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zeenatabrar/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">Hey, 👋 I am ZEENAT ABRAR</h1>
 
 ###
@@ -38,6 +30,14 @@
 ###
 
 <h3 align="left">Proficient Full Stack Web Developer with a strong command of HTML, CSS, JavaScript, React, Redux, TypeScript, MongoDB, Cypress, Jest, Node.js, and Express.js. Possesses a solid foundation in Frontend development and exceptional problem-solving abilities. Demonstrated expertise in building both solo and collaborative projects, showcasing proficiency in version control with GitHub. Ready to contribute technical prowess and teamwork skills to innovative web development endeavors.</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zeenatabrar.zeenatabrar&right_color=plum"  />
+</div>
 
 ###
 
