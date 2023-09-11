@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<h3 align="left">🛠 I Code With</h3>
+<h2 align="left">🛠 I Code With</h2>
 
 ###
 
